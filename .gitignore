@@ -1,0 +1,23 @@
+/client/.DS_Store
+/client/node_modules/
+/client/dist/
+/client/npm-debug.log*
+/client/yarn-debug.log*
+/client/yarn-error.log*
+/client/test/unit/coverage/
+
+/server/.DS_Store
+/server/node_modules/
+/server/dist/
+/server/npm-debug.log*
+/server/yarn-debug.log*
+/server/yarn-error.log*
+/server/test/unit/coverage/
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
